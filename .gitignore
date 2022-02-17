@@ -1,0 +1,8 @@
+# Project Files
+.vscode/
+.idea/
+
+# CMake Output
+debug/
+release/
+
